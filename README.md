@@ -21,4 +21,3 @@ This data is showing that:
 
 ## Summary
 When the “Silver Tsunami” hits, it will leave Pewlett Hackard with 72,458 positions that need to be filled. With the current requirements for their mentorship program there are 1,549 who qualify to be mentors. If it is the company’s intention to have these mentors teach new hires one on one, this will still leave a large hole in the company that the retirees have left. To lessen the load on the company it would be beneficial to have these mentors take upon multiple new hires to assist the transition period.
-![image](https://user-images.githubusercontent.com/116857936/211704245-f6c432cb-6197-4735-bdd7-1530499e3861.png)
