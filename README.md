@@ -1,11 +1,13 @@
 ## Overview of the analysis
 Pewlett Hackard is a large company, Bobby needs our help to find who in the company will be retiring soon and be sure there are enough workers there who will be able to train new hires. Using the data that we have, we used SQL to assist Bobby with finding this out.
+
 ![EmployeeDB.png](EmployeeDB.png)
 Using these datasets and their relations this is how we can find who will be retiring soon, and who can help train.
 
 ## Results 
 ### Deliverable 1
 Deliverable 1 is about finding the number of employees that are retiring by their title. The first thing that had to be done was to find the employees who would be retiring soon. This is done by sorting the employees with their titles and birthdates, we need to find those who were born between the years 1952 and 1955 and their “to_date” being 9999-01-01 showing they are currently still with the company. After that, we need to find the employees most recent position at the company to properly show which department they are representing.
+
 ![Deliverable1.png](Deliverable1.png)
 This data is showing that:
 - There is a total of 72,458 employees that will be retiring in the coming years.
@@ -13,6 +15,7 @@ This data is showing that:
 
 ### Deliverable 2
 Deliverable 2 is about finding the employees that remain that are eligible for the mentorship program. This is determined by taking the current employees list for those who are born in the year 1965.
+
 ![Deliverable2.png](Deliverable2.png)
 This data is showing that:
 - With these requirements, there are currently 1,549 employees who are elidable for the mentorship program.
